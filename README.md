@@ -7,7 +7,7 @@ An interactive Business Intelligence (BI) dashboard built using Tableau to analy
 ## 📊 Dashboard Previews
 
 ### Overview (All Vehicle Types)
-![EV All Vehicles Dashboard](Dashboard%20Preview%20-%2001.jpg)
+![EV All Vehicles Dashboard](file:///Users/shivam/Downloads/Dashboard%20Preview%20-%2001.png)
 
 ### Segmented view (Plug-in Hybrid Electric Vehicles)
 ![EV PHEV Dashboard](Dashboard%20Preview%20-%2002.jpg)
